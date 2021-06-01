@@ -1,0 +1,1 @@
+export const SYMBOLS = ['BTCUSDT', 'BNBBTC', 'ETHBTC']
